@@ -3,7 +3,8 @@
 **Backend Developer (Python / Flask)**  
 Astana, Kazakhstan  
 Backend-разработчик: создаю REST API на Flask, оптимизирую PostgreSQL, внедряю асинхронную логику и контейнеризую сервисы в Docker.  
-Опыт: **IQadam Systems — DevSecOps Intern (2 months)**  
+Опыт: **IQadam Systems — DevSecOps Intern 6 месяцев**  
+      **Future AI 1 год**
 
 **Email:** [4etkimagaa@gmail.com](mailto:4etkimagaa@gmail.com)  
 **Telegram:** [@Tokpok1](https://t.me/Tokpok1)
