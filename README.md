@@ -102,10 +102,12 @@ Fullstack-разработчик с **3-летним опытом** разраб
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
+| AI Support Desk | Fullstack LLM-powered customer support automation demo | FastAPI, React, SQLAlchemy, Docker, LLM | [Repository](https://github.com/Tokpoki/ai-support-desk) |
 | DataSaur2026 | fire-routing-engine | Python | [Repository](https://github.com/Tokpoki/DataSaur2026) |
 | SportApp | Description not provided in repository | JavaScript, Python, PLpgSQL, HTML, CSS | [Repository](https://github.com/Tokpoki/SportApp) |
 | Tic-tac-toe | Tic-Tac-Toe CLI (PvP/PvE, Minimax, modular architecture, tests) | Not specified in repository | [Repository](https://github.com/Tokpoki/Tic-tac-toe) |
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tokpoki&repo=ai-support-desk&theme=github_dark)](https://github.com/Tokpoki/ai-support-desk)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tokpoki&repo=DataSaur2026&theme=github_dark)](https://github.com/Tokpoki/DataSaur2026)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tokpoki&repo=SportApp&theme=github_dark)](https://github.com/Tokpoki/SportApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tokpoki&repo=Tic-tac-toe&theme=github_dark)](https://github.com/Tokpoki/Tic-tac-toe)
