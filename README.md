@@ -1,10 +1,10 @@
-﻿# Magzhan Nurlanov
+﻿# Магжан Нурланов
 
 **Backend Developer (Python / Flask)**  
 Astana, Kazakhstan  
 Backend-разработчик: создаю REST API на Flask, оптимизирую PostgreSQL, внедряю асинхронную логику и контейнеризую сервисы в Docker.  
-Опыт: **IQadam Systems — DevSecOps Intern 6 месяцев**  
-      **Future AI 1 год**
+Опыт: **IQadam Systems — DevSecOps 1 год**  
+       **Future AI 2 года**
 
 **Email:** [4etkimagaa@gmail.com](mailto:4etkimagaa@gmail.com)  
 **Telegram:** [@Tokpok1](https://t.me/Tokpok1)
@@ -50,12 +50,16 @@ Backend-разработчик: создаю REST API на Flask, оптимиз
 
 ## Experience
 
-### IQadam Systems — DevSecOps Intern — 2 months
+### IQadam Systems — DevSecOps - 1 год
 
-- Participated in development and deployment of web applications.
-- Configured Docker containerization and asynchronous request handling.
-- Set up Nginx as reverse proxy for load balancing and security.
-- Contributed to secure deployment practices.
+- Участвовал в разработке и развертывании веб-приложений.
+- Настроил контейнеризацию Docker и асинхронную обработку запросов.
+- Настроил Nginx в качестве обратного прокси-сервера для балансировки нагрузки и обеспечения безопасности.
+- Внес свой вклад в разработку методов безопасного развертывания.
+### Future AI - 2 года
+- Внедрение Чат ботов в готовые бизнесы
+- строение бизнес сайтов(MVP) с нуля со встроенным LLM системой
+- Внедрение Мониторинга систем для логирования данных
 
 ## Featured Projects
 
@@ -69,18 +73,18 @@ Backend-разработчик: создаю REST API на Flask, оптимиз
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tokpoki&repo=SportApp&theme=github_dark)](https://github.com/Tokpoki/SportApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tokpoki&repo=Tic-tac-toe&theme=github_dark)](https://github.com/Tokpoki/Tic-tac-toe)
 
-## Education & Languages
+## Обзразование и Языки
 
 **Astana IT University**  
 Bachelor's Degree in Information Security  
 September 2023 - June 2026
 
-**Languages**  
-- Kazakh — Native
-- Russian — Fluent
+**Языки**  
+- Казахский — Native
+- Русский — Fluent
 - English — B2
 
-## Contacts
+## Контакты
 
 - Email: [4etkimagaa@gmail.com](mailto:4etkimagaa@gmail.com)
 - Telegram: [@Tokpok1](https://t.me/Tokpok1)
